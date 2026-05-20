@@ -1,0 +1,38 @@
+
+        ◼         
+       ◼ ◼       
+▒     ◼   ◼     ▒  
+ ▒  ◼◼◼◼◼◼◼ ▒  
+      ██████  ▒ ▒  
+▒ ▒◼◼◼◼◼◼◼◼▒ ▒   
+ ▒    █    █    ▒    
+▒     █▀▀▀▀█    
+     █      █
+     █      █
+     █▀▄▄▄▄▀█
+    █        █
+    █▀▀▄▄▄▄▀▀█
+    █        █
+    █        █
+  ██████████████
+ ████████████████
+██████████████████
+
+
+
+
+    //Full Square Block: █ 
+    //[1]White/Empty Square: □
+    //Black/Filled Square: ■ 
+    //Medium Black Square: ◼
+    //Medium White Square: ◻ S
+    //Small Black Square: ▪ 
+    //Small White Square: ▫ 
+    //Lower Half Block: ▄
+    //Upper Half Block: ▀
+    //Left Half Block:    ▌
+    //Right Half Bolock : ▐
+    //Light Shade: ░ 
+    //(25% filled)Medium Shade: ▒ 
+    //(50% filled)Dark Shade: ▓ (75% filled) 
+    //Full block : █

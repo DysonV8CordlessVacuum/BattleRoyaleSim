@@ -7,7 +7,7 @@
 #define BUILDING_H
 
 typedef struct {
-    char art[20][20];
+    char art[20][20][4];
     
 } Building;
 

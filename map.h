@@ -8,7 +8,7 @@
 #define MAP_H
 
 typedef struct {
-    char matrix[200][200];
+    char matrix[200][200][4];
     bool isForbidden[200][200];
 }Map;
 void dysplay(Map* map);
